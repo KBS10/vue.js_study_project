@@ -9,7 +9,7 @@
       Flux 패턴
       MVC패턴을 가진 애플리케이션이 커지면 커질수록 상태관리의 흐름이 너무 복잡해지는 것을 해결하고자 만든 패턴
       데이터의 흐름이 양방향이 아닌 단방향으로 흐른다는 것
-      Action, Dispatcher ,Store, View순으로 흐른다.
+      Action, Dispatcher ,Store, View순으로 흐른다...
   </div>
 </template>
 
